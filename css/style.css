@@ -1,0 +1,81 @@
+.navbar{
+    background-color: #cce2e2;
+}
+.btnlogo{
+    margin: 0 15px;
+    border: none;
+}
+
+.btnadmin{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+    
+    color: #35797d;
+    border: none;
+    background-color: #cce2e2;
+    margin-left: 600px;
+    
+}
+.imgequipamentos{
+    width: 300px;
+    height: 200px;
+    border-style: groove;
+}
+
+.btnicon{
+    width: 50px;
+    height: 50px;
+    
+    border: none;
+}
+.novo{
+    color: #b3b3b3;
+    font-weight: bold;
+    font-family: "Trebuchet MS";
+    font-size: 12pt;
+}
+.descricao{
+    color: #b3b3b3;
+    
+    font-family: "Trebuchet MS";
+    font-size: 10pt;
+}
+.card-body{
+    background-color: #fff;
+}
+.num {
+    
+  
+   border: none;
+      
+}
+#senhaform tr td input{
+    border-radius: 30px;
+    padding: 8px;
+    width: 71px;
+    margin-left: 14px;
+    font-size: 26px;
+    transition: 0.7s;
+    
+}
+#senhaform tr td input:hover{
+    color: black;
+    background-color: cyan ;
+}
+.limpar input {
+    font-size: 15px !important;
+}
+.Entrar input {
+    font-size: 15px !important;
+}
+.containerIndex{
+    background-color: #cce2e2;
+}
+
+#formsenha{
+    width: 71%;
+}
+#cardTamanho{
+    width: 50%;
+}
