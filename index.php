@@ -15,8 +15,9 @@ session_start();
 
 
     <center>
+        <br><br>
         <div class="col-sm-6">
-            <img src="img/techman.png"><br>
+            <img src="img/techman.png"><br><br>
             <div class="card shadow-sm" id="cardTamanho">
                 <div class="card-header">
 

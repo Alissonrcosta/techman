@@ -16,7 +16,7 @@ $perfil = $_SESSION['perfil'];
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<body>
+<body class="teste">
   <!--Navegação -->
   <div class="container">
     <nav class="navbar navbar-light  justify-content-between navega">

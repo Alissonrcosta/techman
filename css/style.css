@@ -30,15 +30,16 @@
     border: none;
 }
 .novo{
-    color: #b3b3b3;
+    color: #868282;
     font-weight: bold;
     font-family: "Trebuchet MS";
     font-size: 12pt;
 }
 .descricao{
-    color: #b3b3b3;
+    color: #868282;
+    font-weight: 900;
     
-    font-family: "Trebuchet MS";
+    font-family: "Trebuchet MS" ;
     font-size: 10pt;
 }
 .card-body{
@@ -57,6 +58,7 @@
     margin-left: 14px;
     font-size: 26px;
     transition: 0.7s;
+    height: 67px;
     
 }
 #senhaform tr td input:hover{
@@ -78,4 +80,7 @@
 }
 #cardTamanho{
     width: 50%;
+}
+.teste{
+    background-color: #eeeded;
 }
